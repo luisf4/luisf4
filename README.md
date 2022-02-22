@@ -1,3 +1,6 @@
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisf4&show_icons=true&theme=radical)
+
 - 👋 Hi, I’m Luis Fernando 👍
 - 👀 I’m interested in computers 💻🔨
 - 🏂 I’m currently learning web development 🛌
@@ -9,4 +12,3 @@ luisf4/luisf4 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisf4&show_icons=true&theme=radical)
