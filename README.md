@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Luis 👍</h1>
 
 
-<h3 align="center">Student of software engineering</h3>
+<h3 align="center">Software engineering student</h3>
 
 
 
