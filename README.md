@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisf4&label=Profile%20views&color=0e75b6&style=flat" alt="luisf4" /> </p>
 
-- 🔭 I’m currently working on **my skills as a developer**
+- 🔭 I’m currently working on **my skills as a web developer**
 
 - 🌱 I’m currently learning **Node JS, Angular and rest API**
 
