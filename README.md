@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **anything**
 
-- ⚡ Fun fact **i hate css x:**
+- ⚡ Fun fact **i hate css :>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
