@@ -3,33 +3,46 @@
 
 
 <h3 align="center">I'm a Fullstack Developer</h3>
-<h6 align="center">I am currently actively seeking job opportunities in Software Development. In my free time, I enjoy working on personal projects, some of which you can explore right here on my profile. Feel free to reach out if you have any job openings or collaboration opportunities :)</h6>
+<h6 align="center">I am a Software Developer at <a href="https://www.linkedin.com/company/shift-pulsa-pela-vida">Shift</a>, and I also do some freelance work. In my free time, I enjoy working on personal projects, some of which you can explore right here on my profile. Feel free to reach out if you have any collaboration opportunities :)</h6>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisf4&label=Profile%20views&color=0e75b6&style=flat" alt="luisf4" /> </p>
 
 
-```c#
+```ts
 public class Me {
-    string WorkingOn = "Web Development stuff";
-    string Learning = "ASP.NET, Node JS, Angular, Rest API";
-    string Hate = "CSS >:C";
-    int Age = 20;
-
-    public void Code(Idea motivation) {
-        motivation.StartCoding();
-    }
+    public string workingOn = "Next.js projects and more ⚡";
+    public string learning = "Java, Quarkus, Angular, TypeScript, Nextjs";
+    public string hate = "CSS 😤";
+    public int age = 21;
 }
+
 
 ```
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My stack</h3>
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/C_Sharp_Icon.png/120px-C_Sharp_Icon.png" alt="C#" width="40" height="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  
+ 
+ 
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-plain-wordmark.svg" width="50" height="50" />          
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" width="50" height="50"/>
+          
+          
+          
+          
+          
+          
+          
+          
 </p>
