@@ -3,7 +3,10 @@
 
 
 <h3 align="center">I'm a Fullstack Developer</h3>
-<h6 align="center">I am a Software Developer at <a href="https://www.linkedin.com/company/shift-pulsa-pela-vida">Shift</a>, and I also do some freelance work. In my free time, I enjoy working on personal projects, some of which you can explore right here on my profile. Feel free to reach out if you have any collaboration opportunities :)</h6>
+<h6 align="center">
+I’m a Software Developer and also take on freelance projects.  
+If you are interested in working together or creating a project with me, feel free to reach out and let's grab a coffee :)
+</h6>
 
 
 
