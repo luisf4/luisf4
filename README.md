@@ -14,14 +14,14 @@ Open to freelance projects and full-time roles. If you want to build something t
 
 ---
 
-**🔭 Currently** — Lead Developer [AOW Studio](https://aowstudio.com)
+**🔭 Currently**: Lead Developer [AOW Studio](https://aowstudio.com)
 
-**⚡ What I do** — Own the full stack: architecture, frontend, backend, APIs, payments, cloud infra, and deployment
+**⚡ What I do**: Own the full stack: architecture, frontend, backend, APIs, payments, cloud infra, and deployment :)
 
-**🛠️ Stack** — TypeScript · Next.js · React · Node.js · Java · GCP · AWS
+**🛠️ Stack**: TypeScript · Next.js · React · Node.js · Java · GCP · AWS
 
-**🌍 Based in** — São Paulo, Brazil · Working globally
+**🌍 Based in**: São Paulo, Brazil · Working globally
 
-**📫 Contact** — [luismarcelino.dev@gmail.com](mailto:luismarcelino.dev@gmail.com)
+**📫 Contact**: [luismarcelino.dev@gmail.com](mailto:luismarcelino.dev@gmail.com)
 
-**🌐 Portfolio** — [luisf4.cafe](https://luisf4.cafe)
+**🌐 Portfolio**: [luisf4.cafe](https://luisf4.cafe)
