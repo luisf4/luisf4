@@ -5,7 +5,7 @@
 
 <p align="center">
 Building solid, scalable products end-to-end, from responsive frontends to robust backends and cloud infrastructure.<br/>
-Currently Lead Developer at <a href="https://www.aowstudio.com/">AOW Studio</a>, shipping e-commerce platforms and production-grade systems.<br/>
+Currently Mid Developer at <a href="https://www.aowstudio.com/">AOW Studio</a>, shipping e-commerce platforms and production-grade systems.<br/>
 Open to freelance projects and full-time roles — let's build something together.
 </p>
 
