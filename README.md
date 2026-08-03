@@ -5,7 +5,7 @@
 
 <p align="center">
 Building solid, scalable products end-to-end, from responsive frontends to robust backends and cloud infrastructure.<br/>
-Currently Lead Developer at <a href="#">AOW Studio</a>, shipping e-commerce platforms and production-grade systems.<br/>
+Currently Lead Developer at <a href="https://www.aowstudio.com/">AOW Studio</a>, shipping e-commerce platforms and production-grade systems.<br/>
 Open to freelance projects and full-time roles — let's build something together.
 </p>
 
@@ -16,7 +16,7 @@ Open to freelance projects and full-time roles — let's build something togethe
 ---
 
 ### 🚀 Currently
-Lead Developer @ [AOW Studio](https://github.com/)
+Mid Developer @ [AOW Studio](https://github.com/)
 
 ### 💼 What I do
 Full stack ownership: architecture, frontend, backend, APIs, payments, cloud infra, and deployment.
